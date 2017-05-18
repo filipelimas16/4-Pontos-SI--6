@@ -1,0 +1,29 @@
+E:\Executaveis liberados\Pré Greve\Pré Greve\bin\Debug\Pré Greve.exe.config
+E:\Executaveis liberados\Pré Greve\Pré Greve\bin\Debug\Pré Greve.exe
+E:\Executaveis liberados\Pré Greve\Pré Greve\bin\Debug\Pré Greve.pdb
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré Greve.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Principal.resources
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Properties.Resources.resources
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Tela_1.resources
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Tela_2.resources
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré Greve.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré Greve.exe
+E:\Executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré Greve.pdb
+E:\Download\Pré Greve\Pré Greve\bin\Debug\Pré Greve.exe.config
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré Greve.exe
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré Greve.pdb
+E:\Download\Pré Greve\Pré Greve\bin\Debug\Pré Greve.exe
+E:\Download\Pré Greve\Pré Greve\bin\Debug\Pré Greve.pdb
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré Greve.csprojResolveAssemblyReference.cache
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Principal.resources
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Properties.Resources.resources
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Tela_1.resources
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Tela_2.resources
+E:\Download\Pré Greve\Pré Greve\obj\Debug\Pré Greve.csproj.GenerateResource.Cache
+E:\executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Contato.resources
+E:\executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Cadastrar_Produto.resources
+E:\executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Cadastro_Funcionario.resources
+E:\executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Produtos.resources
+E:\executaveis liberados\Pré Greve\Pré Greve\bin\Debug\Database1.mdf
+E:\executaveis liberados\Pré Greve\Pré Greve\bin\Debug\Database1_log.ldf
+E:\executaveis liberados\Pré Greve\Pré Greve\obj\Debug\Pré_Greve.Alunos.resources
